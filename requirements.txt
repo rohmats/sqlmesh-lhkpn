@@ -77,3 +77,4 @@ watchfiles
 wcwidth
 websockets
 widgetsnbextension
+sse_starlette
